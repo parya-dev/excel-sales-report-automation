@@ -271,7 +271,7 @@ Potential enhancements include:
 
 # 📄 Dataset
 
-**Dataset:** [Global Superstore Sales Dataset]([url](https://huggingface.co/spaces/SHAILJA1/ETL/blob/main/global_superstore_2016%20%281%29.xlsx?utm_source=chatgpt.com))
+**Dataset:** [Global Superstore Sales Dataset]((https://huggingface.co/spaces/SHAILJA1/ETL/blob/main/global_superstore_2016%20%281%29.xlsx?utm_source=chatgpt.com))
 
 This project uses the Global Superstore dataset for educational and portfolio purposes.
 
